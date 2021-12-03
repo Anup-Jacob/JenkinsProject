@@ -22,7 +22,8 @@ public class CalcTestCase extends TestCase {
 	 * Test method for {@link myJenkins.Calculator#main(java.lang.String[])}.
 	 */
 	public void testMain() {
-		fail("Not yet implemented"); // TODO
+		//fail("Not yet implemented"); // TODO
+		TestCalc();
 	}
 	
 //	@Test	
