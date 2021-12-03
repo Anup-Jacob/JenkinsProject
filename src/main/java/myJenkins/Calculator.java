@@ -19,7 +19,7 @@ public class Calculator {
 		
 		Scanner input =new Scanner(System.in);
 		
-		System.out.println("Enter the First number to be calculated : ");
+		/*System.out.println("Enter the First number to be calculated : ");
 		double num1 = input.nextDouble();
 		
 		System.out.println("Enter the Second number to be calculated : ");
@@ -27,7 +27,11 @@ public class Calculator {
 		
 		System.out.println("Enter the Calculation operation to be done: ");
 		String oper = input.next();
-				
+		
+				*/
+		int num1 = 56, num2= 45;
+		String oper = "+";
+		
 		System.out.println("");
 		
 		double result = 0;
