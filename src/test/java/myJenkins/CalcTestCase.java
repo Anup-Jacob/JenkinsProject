@@ -5,9 +5,15 @@ package myJenkins;
 
 import junit.framework.TestCase;
 
-/**
- * @author Anup Jacob
- */
+/*-----------------------------------------------------------------------------------------------------------
+File name		: CalcTestCase.java
+Author			: Anup Jacob
+Created Date	: 03/12/2021
+Modified Date	: 03/12/2021
+Description		: A sample test case to do the testing functionality of calculator function in Java for CI 
+				tools testing purpose
+
+-----------------------------------------------------------------------------------------------------------*/
 
 public class CalcTestCase extends TestCase {
 
